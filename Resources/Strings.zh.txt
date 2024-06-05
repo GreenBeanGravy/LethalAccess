@@ -1,0 +1,11 @@
+﻿AllFilesPresentPrompt=所有必需的文件都已存在。是否进行完整的重新安装？（Y/N）：
+ChangelogPrompt=是否保存并打开更新日志？（Y/N）：
+DirectoryFound=找到Lethal Company目录：
+DirectoryNotFound=未找到Lethal Company目录。
+EnterDirectoryPath=请输入Lethal Company游戏目录的路径：
+FullReinstall=正在进行完整重新安装...
+InstallationAborted=安装已中止。
+MissingFilesPrompt=某些必需的文件丢失。是否添加它们？（Y/N）：
+OldVersionFound=发现旧版本的LethalAccess（LethalAccess.dll）。
+ReinstallPrompt=是否重新安装LethalAccess？（Y/N）：
+UpdatePrompt=有LethalAccess的更新。是否更新？（Y/N）：

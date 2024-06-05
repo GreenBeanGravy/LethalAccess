@@ -1,0 +1,11 @@
+﻿AllFilesPresentPrompt=All required files are already present. Would you like to do a full reinstall? (Y/N):
+ChangelogPrompt=Would you like to save and open the changelog? (Y/N):
+DirectoryFound=Lethal Company directory found:
+DirectoryNotFound=Lethal Company directory not found.
+EnterDirectoryPath=Please enter the path to your Lethal Company game directory:
+FullReinstall=Performing a full reinstall...
+InstallationAborted=Installation aborted.
+MissingFilesPrompt=Some required files are missing. Would you like to add them? (Y/N):
+OldVersionFound=An old version of LethalAccess (LethalAccess.dll) was found.
+ReinstallPrompt=Would you like to reinstall LethalAccess? (Y/N):
+UpdatePrompt=An update for LethalAccess is available. Would you like to update? (Y/N):
