@@ -3,3 +3,4 @@ You can either use the DLL attached to this message, or run the updater to recei
 - Doors now automatically open when the player is attempting to pathfind through a door. You still may encounter issues if the player gets physically stuck on an open door 3D model, which I will be fixing.
 - Adjusted the pathfinder stopping distance from 1.8 meters to 1.5 meters, bringing the player closer to objects to make it easier for them to be picked up more consistently.
 - You can now use the Left and Right ALT keys to activate the left click and right click of your currently held item. This can be rebound in the Lethal Access config.
+- Increased the performance of some aspects of the mod by moving frequent checks and tasks off of the main game thread.
