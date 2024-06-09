@@ -1,1 +1,2 @@
-Hello! :D
+6/9/2024
+- Doors now automatically open when the player is attempting to pathfind through a door. You still may encounter issues if the player gets physically stuck on an open door 3D model, which I will be fixing.
