@@ -1,4 +1,7 @@
-You can either use the DLL attached to this message, or run the updater to receive this update.
+6/16/2024
+- Lethal Access now consistently uses the term "Factory" instead of swapping between "Facility" and "Factory"
+- Certain categories in the navigation menu are now hidden and unhidden based on the players location. The "Factory" category is only displayed when the player is landed on a moon, excluding the Company Building. The "Company Buidling" category is only shown if the player is landed at the Company Building. Spoken feedback is also provided when the category list changes.
+
 6/9/2024
 - Doors now automatically open when the player is attempting to pathfind through a door. You still may encounter issues if the player gets physically stuck on an open door 3D model, which I will be fixing.
 - Adjusted the pathfinder stopping distance from 1.8 meters to 1.5 meters, bringing the player closer to objects to make it easier for them to be picked up more consistently.
