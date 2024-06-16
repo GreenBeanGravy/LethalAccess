@@ -1,6 +1,9 @@
 6/16/2024
 - Lethal Access now consistently uses the term "Factory" instead of swapping between "Facility" and "Factory"
 - Certain categories in the navigation menu are now hidden and unhidden based on the players location. The "Factory" category is only displayed when the player is landed on a moon, excluding the Company Building. The "Company Buidling" category is only shown if the player is landed at the Company Building. Spoken feedback is also provided when the category list changes.
+- Changed the way the LEFT and RIGHT ALT keys behave. This fixes walkie talkies, but causes issues in most other items. Still working on a fix.
+- Fixed some small typos.
+- Fixed an issue where the Factory Entrances and Exits would speak the incorrect name.
 
 6/9/2024
 - Doors now automatically open when the player is attempting to pathfind through a door. You still may encounter issues if the player gets physically stuck on an open door 3D model, which I will be fixing.
