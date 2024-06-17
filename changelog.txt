@@ -1,7 +1,8 @@
 6/16/2024
+- Fixed an issue causing the game to crash under seemingly unknown circumstances.
+- The LEFT and RIGHT ALT keys (default), now correctly simulate left and right mouse clicks. All items should work as expected!
 - Lethal Access now consistently uses the term "Factory" instead of swapping between "Facility" and "Factory"
 - Certain categories in the navigation menu are now hidden and unhidden based on the players location. The "Factory" category is only displayed when the player is landed on a moon, excluding the Company Building. The "Company Buidling" category is only shown if the player is landed at the Company Building. Spoken feedback is also provided when the category list changes.
-- Changed the way the LEFT and RIGHT ALT keys behave. This fixes walkie talkies, but causes issues in most other items. Still working on a fix.
 - Fixed some small typos.
 - Fixed an issue where the Factory Entrances and Exits would speak the incorrect name.
 
