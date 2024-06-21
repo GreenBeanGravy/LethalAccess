@@ -1,0 +1,11 @@
+AllFilesPresentPrompt=جميع الملفات المطلوبة موجودة بالفعل. هل ترغب في إجراء إعادة تثبيت كاملة؟ (Y/N):
+ChangelogPrompt=هل ترغب في حفظ وفتح سجل التغييرات؟ (Y/N):
+DirectoryFound=تم العثور على دليل Lethal Company:
+DirectoryNotFound=لم يتم العثور على دليل Lethal Company.
+EnterDirectoryPath=الرجاء إدخال المسار إلى دليل لعبة Lethal Company الخاص بك:
+FullReinstall=جاري إجراء إعادة تثبيت كاملة...
+InstallationAborted=تم إلغاء التثبيت.
+MissingFilesPrompt=بعض الملفات المطلوبة مفقودة. هل ترغب في إضافتها؟ (Y/N):
+OldVersionFound=تم العثور على إصدار قديم من LethalAccess (LethalAccess.dll).
+ReinstallPrompt=هل ترغب في إعادة تثبيت LethalAccess؟ (Y/N):
+UpdatePrompt=يتوفر تحديث لـ LethalAccess. هل ترغب في التحديث؟ (Y/N):
