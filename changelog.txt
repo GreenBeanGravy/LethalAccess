@@ -1,5 +1,9 @@
 6/20/2024
 - Fixed an issue (again) causing the game to crash after the player attempted to pathfind under specific circumstances.
+- Fixed an issue causing some categories to improperly appear with no items after a refresh.
+- Fixed an issue where navigating between items in a category would speak the incorrect name.
+- Fixed an issue where manually stopping looking at the current object would speak the incorrect name.
+- Fixed an issue where reaching an object after pathfinding would incorrectly say "Reached unknown object".
 - Improved the overall performance of the mod (again).
 - Added CullFactory, which hides parts of the Factory that the player cannot see.
 - Added LoadStone, which reduces hitches when the ship starts to land, and fixes an issue where voice chat is not available while the ship is landing.
