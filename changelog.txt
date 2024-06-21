@@ -1,3 +1,12 @@
+6/20/2024
+- Fixed an issue (again) causing the game to crash after the player attempted to pathfind under specific circumstances.
+- Improved the overall performance of the mod (again).
+- Added CullFactory, which hides parts of the Factory that the player cannot see.
+- Added LoadStone, which reduces hitches when the ship starts to land, and fixes an issue where voice chat is not available while the ship is landing.
+- Added Dissonance LagFix, which fixes some hitches with the voice chat service after an issue occurs.
+- Added FixRPC Lag, which fixes some issues with the games error and log reporting causing lag.
+- Added LCSymphony, which speeds up game load times.
+
 6/16/2024
 - Fixed an issue causing the game to crash under seemingly unknown circumstances.
 - The LEFT and RIGHT ALT keys (default), now correctly simulate left and right mouse clicks. All items should work as expected!
