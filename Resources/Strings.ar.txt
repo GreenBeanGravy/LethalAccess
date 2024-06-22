@@ -9,3 +9,8 @@ MissingFilesPrompt=بعض الملفات المطلوبة مفقودة. هل ت�
 OldVersionFound=تم العثور على إصدار قديم من LethalAccess (LethalAccess.dll).
 ReinstallPrompt=هل ترغب في إعادة تثبيت LethalAccess؟ (Y/N):
 UpdatePrompt=يتوفر تحديث لـ LethalAccess. هل ترغب في التحديث؟ (Y/N):
+BackingUpBepInEx=جاري نسخ مجلد BepInEx احتياطيًا...
+BackupLethalAccessConfig=هل ترغب في نسخ ملف تكوين Lethal Access احتياطيًا؟ (Y/N):
+DeletingBepInEx=جاري حذف مجلد BepInEx الحالي...
+AddingBepInEx=جاري إضافة مجلد BepInEx...
+RestoringBackups=جاري استعادة الملفات الاحتياطية...
