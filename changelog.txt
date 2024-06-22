@@ -1,3 +1,12 @@
+6/22/2024
+- Added spoken feedback to celestial body notifications, which appear when landing the ship, and explain the planet you are landing on in more detail.
+- Added spoken feedback to some extra end-of-round stats.
+- Added custom sounds for picking up items, and picking up two-handed items. Two-handed items also notify the player that they are two-handed, and explain how they work.
+- Added a custom sound that plays once the player finishes a hold-interaction, namely, the Start Game Lever, and Factory doors.
+- Added an audio notification that plays when the player starts Lethal Company with an unsupported screenreader.
+- Fixed an issue where pathfinding to an item would incorrectly notify the player twice, once correctly, and once as "reached unknown item"
+- Fixed and issue and added an improvement to categories. Added spoken feedback when navigating over an item in a category that is not currently available near you.
+
 6/20/2024
 - Fixed an issue (again) causing the game to crash after the player attempted to pathfind under specific circumstances.
 - Fixed an issue causing some categories to improperly appear with no items after a refresh.
