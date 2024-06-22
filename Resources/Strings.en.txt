@@ -1,4 +1,4 @@
-﻿AllFilesPresentPrompt=All required files are already present. Would you like to do a full reinstall? (Y/N):
+AllFilesPresentPrompt=All required files are already present. Would you like to do a full reinstall? (Y/N):
 ChangelogPrompt=Would you like to save and open the changelog? (Y/N):
 DirectoryFound=Lethal Company directory found:
 DirectoryNotFound=Lethal Company directory not found.
@@ -9,3 +9,8 @@ MissingFilesPrompt=Some required files are missing. Would you like to add them? 
 OldVersionFound=An old version of LethalAccess (LethalAccess.dll) was found.
 ReinstallPrompt=Would you like to reinstall LethalAccess? (Y/N):
 UpdatePrompt=An update for LethalAccess is available. Would you like to update? (Y/N):
+BackingUpBepInEx=Backing up BepInEx folder...
+BackupLethalAccessConfig=Do you want to backup the Lethal Access config file? (Y/N):
+DeletingBepInEx=Deleting existing BepInEx folder...
+AddingBepInEx=Adding BepInEx folder...
+RestoringBackups=Restoring backed up files...
