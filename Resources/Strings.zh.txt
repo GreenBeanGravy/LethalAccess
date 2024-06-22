@@ -1,4 +1,4 @@
-﻿AllFilesPresentPrompt=所有必需的文件都已存在。是否进行完整的重新安装？（Y/N）：
+AllFilesPresentPrompt=所有必需的文件都已存在。是否进行完整的重新安装？（Y/N）：
 ChangelogPrompt=是否保存并打开更新日志？（Y/N）：
 DirectoryFound=找到Lethal Company目录：
 DirectoryNotFound=未找到Lethal Company目录。
@@ -9,3 +9,8 @@ MissingFilesPrompt=某些必需的文件丢失。是否添加它们？（Y/N）�
 OldVersionFound=发现旧版本的LethalAccess（LethalAccess.dll）。
 ReinstallPrompt=是否重新安装LethalAccess？（Y/N）：
 UpdatePrompt=有LethalAccess的更新。是否更新？（Y/N）：
+BackingUpBepInEx=正在备份BepInEx文件夹...
+BackupLethalAccessConfig=是否备份Lethal Access配置文件？（Y/N）：
+DeletingBepInEx=正在删除现有的BepInEx文件夹...
+AddingBepInEx=正在添加BepInEx文件夹...
+RestoringBackups=正在恢复备份的文件...
