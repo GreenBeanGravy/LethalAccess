@@ -1,0 +1,17 @@
+AllFilesPresentPrompt=Minden szükséges fájl már jelen van. Szeretne teljes újratelepítést végezni? (Y/N):
+ChangelogPrompt=Szeretné menteni és megnyitni a változási naplót? (Y/N):
+DirectoryFound=Lethal Company könyvtár megtalálva:
+DirectoryNotFound=Lethal Company könyvtár nem található.
+EnterDirectoryPath=Kérjük, adja meg a Lethal Company játék könyvtárának elérési útját:
+FullReinstall=Teljes újratelepítés végrehajtása...
+InstallationAborted=Telepítés megszakítva.
+MissingFilesPrompt=Néhány szükséges fájl hiányzik. Szeretné hozzáadni őket? (Y/N):
+OldVersionFound=A LethalAccess régi verziója (LethalAccess.dll) található.
+ReinstallPrompt=Szeretné újratelepíteni a LethalAccess-t? (Y/N):
+UpdatePrompt=Elérhető frissítés a LethalAccess-hez. Szeretné frissíteni? (Y/N):
+BackingUpBepInEx=BepInEx mappa biztonsági mentése...
+BackupLethalAccessConfig=Szeretné biztonsági másolatot készíteni a Lethal Access konfigurációs fájljáról? (Y/N):
+DeletingBepInEx=Meglévő BepInEx mappa törlése...
+AddingBepInEx=BepInEx mappa hozzáadása...
+RestoringBackups=Biztonsági mentések visszaállítása...
+BackupBepInExPrompt=Szeretne biztonsági másolatot készíteni a BepInEx mappáról a folytatás előtt? (Y/N, alapértelmezett: Y):
