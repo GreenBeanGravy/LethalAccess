@@ -1,0 +1,12 @@
+{
+    "replacements": [
+        {
+            "matches": "LampSqueakAudio:ShipAmbianceLightSqueak",
+            "sounds": [
+                {
+                    "sound": "Silence.ogg"
+                }
+            ]
+        }
+	]
+}
