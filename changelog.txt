@@ -1,6 +1,6 @@
 7/10/2024
 - Sped up how fast Lethal Access turns your camera towards objects.
-- Made the ship land and take off faster!
+- Made the ship land and take off faster! This may cause audio artifacts, but don't worry, your ship is still intact despite the noises!
 - Removed the annoying squeaking sound that plays in the ship.
 
 6/22/2024
