@@ -1,3 +1,8 @@
+7/10/2024
+- Sped up how fast Lethal Access turns your camera towards objects.
+- Made the ship land and take off faster!
+- Removed the annoying squeaking sound that plays in the ship.
+
 6/22/2024
 - Added spoken feedback to celestial body notifications, which appear when landing the ship, and explain the planet you are landing on in more detail.
 - Added spoken feedback to some extra end-of-round stats.
