@@ -1,3 +1,9 @@
+7/31/2024
+- Added: Pressing N toggles the playback of a sound that plays at cardinal North every 2 seconds, DISABLED by default.
+- Added: Pressing X speaks the direction you are currently facing, followed by the angle.
+- Fixed an issue where the custom player footsteps would play while the player wasn't pathfinding.
+- The North Sound now plays every 1.5 seconds, and plays a 50% deeper tone when the sound is behind you.
+
 7/10/2024
 - Sped up how fast Lethal Access turns your camera towards objects.
 - Made the ship land and take off faster! This may cause audio artifacts, but don't worry, your ship is still intact despite the noises!
