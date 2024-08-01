@@ -3,6 +3,7 @@
 - Added: Pressing X speaks the direction you are currently facing, followed by the angle.
 - Fixed an issue where the custom player footsteps would play while the player wasn't pathfinding.
 - The North Sound now plays every 1.5 seconds, and plays a 50% deeper tone when the sound is behind you.
+- Add a new config entry, "NorthSoundPlayInterval", in the "Values" section of the Lethal Access config file, which you can find near the bottom of the file. Changing this value changes how frequent the North sound plays.
 
 7/10/2024
 - Sped up how fast Lethal Access turns your camera towards objects.
