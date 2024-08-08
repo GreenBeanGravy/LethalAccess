@@ -1,0 +1,17 @@
+AllFilesPresentPrompt=Sono già presenti tutti i file richiesti. Vuoi eseguire una reinstallazione completa? (Y/N):
+ChangelogPrompt=Vuoi salvare e aprire il changelog? (Y/N):
+DirectoryFound=Directory di Lethal Company trovata:
+DirectoryNotFound=Directory di Lethal Company non trovata.
+EnterDirectoryPath=Inserisci il percorso della directory del tuo gioco Lethal Company:
+FullReinstall=Esecuzione di una reinstallazione completa...
+InstallationAborted=Installazione annullata.
+MissingFilesPrompt=Mancano alcuni file richiesti. Vuoi aggiungerli? (Y/N):
+OldVersionFound=Trovata una vecchia versione di LethalAccess (LethalAccess.dll).
+ReinstallPrompt=Vuoi reinstallare LethalAccess? (Y/N):
+UpdatePrompt=È disponibile un aggiornamento per LethalAccess. Vuoi aggiornare? (Y/N):
+BackingUpBepInEx=Backup della cartella BepInEx in corso...
+BackupLethalAccessConfig=Vuoi eseguire il backup del file di configurazione di Lethal Access? (Y/N):
+DeletingBepInEx=Eliminazione della cartella BepInEx esistente...
+AddingBepInEx=Aggiunta della cartella BepInEx...
+RestoringBackups=Ripristino dei file di backup...
+BackupBepInExPrompt=Vuoi eseguire il backup della tua cartella BepInEx prima di procedere? (Y/N, predefinito: Y):

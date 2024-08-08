@@ -1,0 +1,17 @@
+AllFilesPresentPrompt=必要なファイルはすべて既に存在します。完全な再インストールを行いますか？ (Y/N):
+ChangelogPrompt=変更ログを保存して開きますか？ (Y/N):
+DirectoryFound=Lethal Companyディレクトリが見つかりました:
+DirectoryNotFound=Lethal Companyディレクトリが見つかりません。
+EnterDirectoryPath=Lethal Companyゲームディレクトリのパスを入力してください:
+FullReinstall=完全な再インストールを実行中...
+InstallationAborted=インストールが中止されました。
+MissingFilesPrompt=必要なファイルがいくつか欠けています。追加しますか？ (Y/N):
+OldVersionFound=古いバージョンのLethalAccess (LethalAccess.dll)が見つかりました。
+ReinstallPrompt=LethalAccessを再インストールしますか？ (Y/N):
+UpdatePrompt=LethalAccessの更新が利用可能です。更新しますか？ (Y/N):
+BackingUpBepInEx=BepInExフォルダをバックアップ中...
+BackupLethalAccessConfig=Lethal Accessの設定ファイルをバックアップしますか？ (Y/N):
+DeletingBepInEx=既存のBepInExフォルダを削除中...
+AddingBepInEx=BepInExフォルダを追加中...
+RestoringBackups=バックアップファイルを復元中...
+BackupBepInExPrompt=続行する前にBepInExフォルダをバックアップしますか？ (Y/N、デフォルト: Y):
