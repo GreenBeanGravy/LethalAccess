@@ -1,5 +1,5 @@
 8/7/2024
-- Switched over to using Tolk and my other mod, Lethal Speech Output, allowing more screen readers to be used in Lethal Company.
+- Switched over to using my other mod, Lethal Speech Output, for speech, which utilizes Tolk, allowing more screen readers to be used in Lethal Company.
 - Removed "nvdaControllerClient.dll"
 - Removed "NVDA.wav" which played when NVDA was not detected when starting Lethal Company.
 
