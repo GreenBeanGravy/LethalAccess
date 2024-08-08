@@ -1,6 +1,7 @@
 8/7/2024
 - Switched over to using Tolk and my other mod, Lethal Speech Output, allowing more screen readers to be used in Lethal Company.
 - Removed "nvdaControllerClient.dll"
+- Removed "NVDA.wav" which played when NVDA was not detected when starting Lethal Company.
 
 7/31/2024
 - Added: Pressing N toggles the playback of a sound that plays at cardinal North every 2 seconds, DISABLED by default.
